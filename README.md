@@ -1,2 +1,0 @@
-# frontEndCalc
-Created with CodeSandbox
