@@ -1,6 +1,6 @@
 import React, { Component } from 'react';
 import ReactDOM from 'react-dom';
-import * as API from './api';
+import * as API from './socket-api';
 import URLSearchParams from 'url-search-params';
 import './styles.css';
 
