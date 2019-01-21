@@ -53,6 +53,7 @@ export default class Sum extends React.Component{
           A:
           <input type="text" name='a' onChange={this.handleChange} />
         </label>
+      </br>
         <label>
           B:
           <input type="text"  name='b' onChange={this.handleChange} />
